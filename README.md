@@ -1,16 +1,12 @@
-### Hi there 👋
+<p align="center" width="300">
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/67933223?v=4" />
+   <h3 align="center">Hi there 👋! It's Johann 👨🏻‍💻</h3>
+</p>
 
-<!--
-**joehann-9s/joehann-9s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">I'm <strong>Backend developer Jr.</strong> <br />Check my portfolio 👇!</p>
+<p align="center">
+   <a href="http://joehann.yachts/" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://iconsplace.com/wp-content/uploads/_icons/40e0d0/256/png/worldwide-location-icon-17-256.png" alt="midudev" height="28px" width="28px" />
+  </a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
