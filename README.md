@@ -25,36 +25,66 @@
   </ul>
 </div>
 <!--tech stack icons-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">Programming languages</h3></summary>
+  </ul>
+</div>
 <!-- Programming languages -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,go,cpp,py,ts,js&perline=14" />
   </a>
 </p>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">Backend Development</h3></summary>
+  </ul>
+</div>
 <!-- Backend development -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,maven,gradle,express,django&perline=14" />
   </a>
 </p>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">Frontend Developtment</h3></summary>
+  </ul>
+</div>
 <!-- Frontend development -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,astro,next,figma,materialui,jest&perline=14" />
   </a>
 </p>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">Data Bases / ORM</h3></summary>
+  </ul>
+</div>
 <!-- Db -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,hibernate,supabase&perline=14" />
   </a>
 </p>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">Cloud Computing Services</h3></summary>
+  </ul>
+</div>
 <!-- Cloud -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,azure,oracle&perline=14" />
   </a>
 </p>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">Softwares and tools</h3></summary>
+  </ul>
+</div>
 <!-- Software and tools -->
 <p align="center">
   <a href="https://skillicons.dev">
