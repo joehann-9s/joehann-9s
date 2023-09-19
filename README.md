@@ -49,7 +49,7 @@
 </p>
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block">Frontend Developtment</h3></summary>
+    <summary><h3 style="display: inline-block">Frontend Development</h3></summary>
   </ul>
 </div>
 <!-- Frontend development -->
