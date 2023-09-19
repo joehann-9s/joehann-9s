@@ -32,7 +32,7 @@
 </div>
 <!-- Programming languages -->
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://joehann.yachts/">
     <img src="https://skillicons.dev/icons?i=java,go,cpp,py,ts,js&perline=14" />
   </a>
 </p>
@@ -43,7 +43,7 @@
 </div>
 <!-- Backend development -->
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://joehann.yachts/">
     <img src="https://skillicons.dev/icons?i=spring,maven,gradle,express,django&perline=14" />
   </a>
 </p>
@@ -54,7 +54,7 @@
 </div>
 <!-- Frontend development -->
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://joehann.yachts/">
     <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,astro,next,figma,materialui,jest&perline=14" />
   </a>
 </p>
@@ -65,7 +65,7 @@
 </div>
 <!-- Db -->
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://joehann.yachts/">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,hibernate,supabase&perline=14" />
   </a>
 </p>
@@ -76,7 +76,7 @@
 </div>
 <!-- Cloud -->
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://joehann.yachts/">
     <img src="https://skillicons.dev/icons?i=aws,azure,oracle&perline=14" />
   </a>
 </p>
@@ -87,7 +87,7 @@
 </div>
 <!-- Software and tools -->
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://joehann.yachts/">
     <img src="https://skillicons.dev/icons?i=git,docker,github,idea,linux,md,postman,vscode,bash,replit&perline=14" />
   </a>
 </p>
