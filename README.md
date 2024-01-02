@@ -6,11 +6,6 @@
 
 <h1 align="center"><strong>Backend developer Jr.</strong> </h1>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">About me👨🏻‍💻</h2></summary>
-  </ul>
-</div>
 <br>
  - :school: I am a graduate in Systems Engineering
 <br>
@@ -33,7 +28,7 @@
 <!-- Programming languages -->
 <p align="center">
   <a href="https://joehann.yachts/">
-    <img src="https://skillicons.dev/icons?i=java,go,cpp,py,ts,js&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java,go,py,cpp&perline=14" />
   </a>
 </p>
 <div id="user-content-toc">
@@ -42,9 +37,24 @@
   </ul>
 </div>
 <!-- Backend development -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h4 style="display: inline-block">Javascript's environment</h4></summary>
+  </ul>
+</div>
 <p align="center">
   <a href="https://joehann.yachts/">
-    <img src="https://skillicons.dev/icons?i=spring,maven,gradle,express,django&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nest,express&perline=14" />
+  </a>
+</p>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h4 style="display: inline-block">Java's environment</h4></summary>
+  </ul>
+</div>
+<p align="center">
+  <a href="https://joehann.yachts/">
+    <img src="https://skillicons.dev/icons?i=spring,maven,gradle&perline=14" />
   </a>
 </p>
 <div id="user-content-toc">
