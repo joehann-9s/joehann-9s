@@ -1,5 +1,6 @@
 
-![](https://media.licdn.com/dms/image/D4E16AQGdGrwZym9uNA/profile-displaybackgroundimage-shrink_350_1400/0/1711159368907?e=1716422400&v=beta&t=liANLPb9N_RMengPoeUa9KaG3vN-sCR6N7C8h-EKS2g)
+
+![banner](banner-v3.png)
 
 <div id="user-content-toc">
   <ul align="center">
